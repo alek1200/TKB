@@ -26,14 +26,26 @@ Welcome on my new Testing Knowledge Base page. Soon you will be able to find her
 ## Books and docs
 
 
-## Conferences and presentations
 
+## Blogs and twitters
+
+
+## Conferences and presentations
+* EuroSTAR
+* AADays
+* Testing Cup
+* 
 
 ## Testing Ideas
 * [Testing Dojo](ideas/testingdojo.md)
 * [Pair Testing](ideas/pairtesting.md)
 * [Pairing DEV+QA](ideas/pairingdevqa.md)
 * [QA Switch](ideas/qaswitch.md)
+* Mind Mapping
+* Lean Testing
+* Context Driven Testing
+* TDT?
+* Focusing / Defocusing
 * 
 
 
