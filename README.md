@@ -30,10 +30,10 @@ Welcome on my new Testing Knowledge Base page. Soon you will be able to find her
 
 
 ## Testing Ideas
-* Testing Dojo
-* Pair Testing
-* Pairing DEV+QA
-* QA Switch
+* [Testing Dojo](ideas/testingdojo.md)
+* [Pair Testing](ideas/pairtesting.md)
+* [Pairing DEV+QA](ideas/pairingdevqa.md)
+* [QA Switch](ideas/qaswitch.md)
 * 
 
 
