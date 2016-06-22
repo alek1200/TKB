@@ -1,3 +1,4 @@
+# TKB - Testing Knowledge Base
 
 Welcome on my new Testing Knowledge Base page. Soon you will be able to find here all information that you need as a Tester
 
@@ -16,7 +17,7 @@ Welcome on my new Testing Knowledge Base page. Soon you will be able to find her
 
 
 ## Certificates  
-* ISTQB 
+* [ISTQB](ISTQB/cert.md)
 * Oracle Java
 * Microsoft .NET
 * Security 
