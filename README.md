@@ -7,18 +7,22 @@ Welcome on my new Testing Knowledge Base page. Soon you will be able to find her
 * Fiddler
 * WireShark
 * Selenium
+* Jmeter
+* SoapUI
 * 
-
 
 ## Code
 * [Repositories] (code/repositories.md)
+* Repository Tools
+* IDEs
+* Code Coverage
+* Debugging 
 
 ## REST 
 * What is REST
-* Testing Tools in Java
-* Testing Tools in C#
-* 
-
+* Simple REST testing
+* Testing with Java
+* Testing with C#
 
 ## Certificates  
 * [ISTQB](ISTQB/cert.md)
@@ -30,7 +34,6 @@ Welcome on my new Testing Knowledge Base page. Soon you will be able to find her
 ## Books and docs
 
 
-
 ## Blogs and twitters
 
 
@@ -38,7 +41,6 @@ Welcome on my new Testing Knowledge Base page. Soon you will be able to find her
 * EuroSTAR
 * AADays
 * Testing Cup
-* 
 
 ## Testing Ideas
 * [Testing Dojo](ideas/testingdojo.md)
@@ -50,8 +52,6 @@ Welcome on my new Testing Knowledge Base page. Soon you will be able to find her
 * Context Driven Testing
 * TDT?
 * Focusing / Defocusing
-* 
-
 
 ## Knowledge Base:
 * ISTQB glossary
